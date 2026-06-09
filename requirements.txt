@@ -1,0 +1,5 @@
+flask
+slack-sdk
+requests
+openai
+python-dotenv
